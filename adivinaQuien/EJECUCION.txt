@@ -1,0 +1,5 @@
+* * * 1. Ejecutar los 3 programas en secuencia * * * 
+
+  python3 inicializador.py    # Crea red semántica
+  python3 entrenador.py       # Entrena el sistema  
+  python3 adivinar.py         # Juega al adivina quién
